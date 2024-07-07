@@ -1,0 +1,56 @@
+.image-brd {
+	border: 2px solid #FFFFFF;
+}
+
+/*
+* {
+padding: 0;
+margin: 0;
+}
+*/
+
+body {
+	background-color: #5A4E59;
+}
+
+
+h1 {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 18px;
+	color: #fff;
+}
+
+h2 {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 13px;
+	color: #A6D4A7;
+}
+
+p {
+	font-family: "Lucida sans," Verdana, Geneva, sans-serif;
+	font-size: 15px;
+	font-weight: normal;
+	color: #fff;
+}
+
+/*
+#table {
+	right: auto;
+}
+*/
+
+.footer {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 10px;
+	color: #FFF;
+}
+
+.footer a{
+	color: #FFF;
+	text-decoration: underline;
+}
+
+.footer a:hover{
+	color: #912C2B;
+	text-decoration: underline;
+}

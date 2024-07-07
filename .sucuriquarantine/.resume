@@ -1,0 +1,37 @@
+CLEARED: Cleared malware from file: ./cgi/370d75ac_old.php Details: rex.multi_vars.004
+CLEARED: Cleared malware from file: ./cgi/370d75ac_old_prevv1.php Details: rex.multi_vars.004
+CLEARED: Cleared malware from file: ./.htaccess Details: htaccess.spam-seo.suspicious-rewrite.003
+CLEARED: Cleared malware from file: ./cgi-bin/fcc22cbd_backup.php Details: rex.multi_vars.004
+CLEARED: Cleared malware from file: ./cgi-bin/fcc22cbd_backup_backup.php Details: rex.multi_vars.004
+CLEARED: Cleared malware from file: ./cgi-bin/fcc22cbd_backup_backup_bck_old.php Details: rex.multi_vars.004
+CLEARED: Cleared malware from file: ./archive/images/holding_infoold.php Details: rex.multi_vars.004
+CLEARED: Cleared malware from file: ./flash/demo-home-new3.30_noversion.php Details: rex.multi_vars.004
+CLEARED: Cleared malware from file: ./images/logo-anim_indesit.php Details: rex.multi_vars.004
+CLEARED: Cleared malware from file: ./images/holding_indesit.php Details: rex.multi_vars.004
+CLEARED: Cleared malware from file: ./wip/flash/demo-home_bck_old.php Details: rex.multi_vars.004
+CLEARED: Cleared malware from file: ./wip/old/css/styles_prevv1.php Details: rex.multi_vars.004
+CLEARED: Cleared malware from file: ./wip/old/images/demo2design_mockup_new.php Details: rex.multi_vars.004
+CLEARED: Cleared malware from file: ./wip/old/images/demo2design_mockup_new_ver1.php Details: rex.multi_vars.004
+CLEARED: Cleared malware from file: ./wip/contact_backup.php Details: rex.multi_vars.004
+CLEARED: Cleared malware from file: ./.errordocs/missing_old.php Details: rex.multi_vars.004
+CLEARED: Cleared malware from file: ./Pictures/Decor/Untitled-2_indesit.php Details: rex.multi_vars.004
+CLEARED: Cleared malware from file: ./Pictures/Decor/Decor_noversion.php Details: rex.multi_vars.004
+CLEARED: Cleared malware from file: ./Pictures/Decor/Contact_ver1.php Details: rex.multi_vars.004
+CLEARED: Cleared malware from file: ./Pictures/Designs/photo-1_infoold.php Details: rex.multi_vars.004
+CLEARED: Cleared malware from file: ./Pictures/Door/11-2013 Trosky solid 30 x 80 stain grade fr drs.e_new.php Details: rex.multi_vars.004
+CLEARED: Cleared malware from file: ./Pictures/Flooring/3-2014 9-in flooring in place.e_old.php Details: rex.multi_vars.004
+CLEARED: Cleared malware from file: ./Pictures/Gates/7-2013 short wooden gates - ext.e_noversion.php Details: rex.multi_vars.004
+CLEARED: Cleared malware from file: ./Pictures/Hardware/IMG_0584_new.php Details: rex.multi_vars.004
+CLEARED: Cleared malware from file: ./Pictures/Lighting/web5-2013 OML duncan carriage lamps.e_backup.php Details: rex.multi_vars.004
+CLEARED: Cleared malware from file: ./Pictures/Lighting/5-2014 sngl mirrored cylinder sconce.e_ver1.php Details: rex.multi_vars.004
+CLEARED: Cleared malware from file: ./Pictures/Plumbing/2014 Bidet sink.e_prevv1.php Details: rex.multi_vars.004
+CLEARED: Cleared malware from file: ./Pictures/Plumbing/webHaws Drinking Fountain_backup.php Details: rex.multi_vars.004
+CLEARED: Cleared malware from file: ./Pictures/Windows/web8 pane arched window set.e_backup.php Details: rex.multi_vars.004
+CLEARED: Cleared malware from file: ./wjlwplwr.php Details: rex.multi_vars.004
+CLEARED: Cleared malware from file: ./fqfcqufi.php Details: rex.multi_vars.004
+CLEARED: Cleared malware from file: ./vicampfk.php Details: rex.multi_vars.004
+CLEARED: Cleared malware from file: ./index_1_indesit.php Details: rex.multi_vars.004
+CLEARED: Cleared malware from file: ./cheap-beholden.php Details: php.spam-seo.doorway-gen.043
+CLEARED: Cleared malware from file: ./here-georgena.php Details: php.spam-seo.doorway-gen.043
+CLEARED: Cleared malware from file: ./astray-brisk.php Details: php.spam-seo.doorway-gen.043
+Scanning completed.
